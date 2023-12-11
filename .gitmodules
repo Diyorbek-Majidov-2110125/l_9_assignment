@@ -4,3 +4,6 @@
 [submodule "go/src/kitob/book_protos"]
 	path = go/src/kitob/book_protos
 	url = https://github.com/Diyorbek-Majidov-2110125/book_protos.git
+[submodule "go/src/practice1/api-gateway/order_user_protos"]
+	path = go/src/practice1/api-gateway/order_user_protos
+	url = git@github.com:Diyorbek-Majidov-2110125/order_user_protos.git
